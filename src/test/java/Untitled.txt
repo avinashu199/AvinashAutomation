@@ -1,8 +1,16 @@
 avinash
 
+<<<<<<< HEAD
 Wife:
 Kavita
 
 Children:
 Vihaan
 Anvitha
+
+Friends:
+Kavita
+Naveen Veldhi
+Navya Veldhi
+Gangadhar Potu
+
